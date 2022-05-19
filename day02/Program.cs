@@ -9,6 +9,7 @@ namespace day02
         {
             string gunName = "AK47";
             string ammoCapacity = "30";
+            //ijd
             //在字符串中插入变量
             Console.WriteLine("枪的名称为：" + gunName + "，容量为：" + ammoCapacity);
             //占位符{数字（位置的编号）}如果编号大于参数列表长度 则异常
