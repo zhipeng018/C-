@@ -1,0 +1,13 @@
+/Users/wangzhipeng/Projects/datetest1/day02/bin/Debug/netcoreapp3.1/day02.deps.json
+/Users/wangzhipeng/Projects/datetest1/day02/bin/Debug/netcoreapp3.1/day02.runtimeconfig.json
+/Users/wangzhipeng/Projects/datetest1/day02/bin/Debug/netcoreapp3.1/day02.runtimeconfig.dev.json
+/Users/wangzhipeng/Projects/datetest1/day02/bin/Debug/netcoreapp3.1/day02.dll
+/Users/wangzhipeng/Projects/datetest1/day02/bin/Debug/netcoreapp3.1/day02.pdb
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.csproj.AssemblyReference.cache
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.AssemblyInfoInputs.cache
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.AssemblyInfo.cs
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.csproj.CoreCompileInputs.cache
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.dll
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.pdb
+/Users/wangzhipeng/Projects/datetest1/day02/obj/Debug/netcoreapp3.1/day02.genruntimeconfig.cache

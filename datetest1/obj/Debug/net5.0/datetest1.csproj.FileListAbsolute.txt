@@ -1,0 +1,15 @@
+/Users/wangzhipeng/Projects/datetest1/datetest1/bin/Debug/net5.0/datetest1.deps.json
+/Users/wangzhipeng/Projects/datetest1/datetest1/bin/Debug/net5.0/datetest1.runtimeconfig.json
+/Users/wangzhipeng/Projects/datetest1/datetest1/bin/Debug/net5.0/datetest1.runtimeconfig.dev.json
+/Users/wangzhipeng/Projects/datetest1/datetest1/bin/Debug/net5.0/datetest1.dll
+/Users/wangzhipeng/Projects/datetest1/datetest1/bin/Debug/net5.0/ref/datetest1.dll
+/Users/wangzhipeng/Projects/datetest1/datetest1/bin/Debug/net5.0/datetest1.pdb
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.csproj.AssemblyReference.cache
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.AssemblyInfoInputs.cache
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.AssemblyInfo.cs
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.csproj.CoreCompileInputs.cache
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.dll
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/ref/datetest1.dll
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.pdb
+/Users/wangzhipeng/Projects/datetest1/datetest1/obj/Debug/net5.0/datetest1.genruntimeconfig.cache

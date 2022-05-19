@@ -189,44 +189,46 @@ namespace day02
             Console.WriteLine("请输入数字");
             string strNumber = Console.ReadLine();
 
-            int number = int.Parse(strNumber);
-            int result = number % 10;
-            result += number / 10 % 10;
-            result += number / 100 % 10;
-            result += number / 1000;
+            int number1 = int.Parse(strNumber);
+            int result = number1 % 10;
+            result += number1 / 10 % 10;
+            result += number1 / 100 % 10;
+            result += number1 / 1000;
 
             Console.WriteLine("结果位：" + result);
             #endregion
 
-            
-            //Console.WriteLine("请输入数字");
-            //string number = Console.ReadLine();
-            //char c1 = number[0], c2 = number[1], c3 = number[2], c4 = number[3];
-            //string str1 = c1.ToString();
-            //string str2 = c2.ToString();
-            //string str3 = c3.ToString();
-            //string str4 = c4.ToString();
+            #region 方案3
+            Console.WriteLine("请输入数字");
+            string number2 = Console.ReadLine();
+            char c1 = number[0], c2 = number[1], c3 = number[2], c4 = number[3];
+            string str1 = c1.ToString();
+            string str2 = c2.ToString();
+            string str3 = c3.ToString();
+            string str4 = c4.ToString();
 
-            //int num1 = int.Parse(str1);
-            //int num2 = int.Parse(str2);
-            //int num3 = int.Parse(str3);
-            //int num4 = int.Parse(str4);
+            int num1 = int.Parse(str1);
+            int num2 = int.Parse(str2);
+            int num3 = int.Parse(str3);
+            int num4 = int.Parse(str4);
 
-            //int num5 = num1 + num2 + num3 + num4;
+            int num5 = num1 + num2 + num3 + num4;
 
-            //Console.WriteLine(num5);
+            Console.WriteLine(num5);
+
+            #endregion
 
 
             //char c1 = strNumber[0];
             //string s1 = c1.toString();
             //int n1=int.Parse(s1);
-                       // =
+            // =
             //int result02 = n1;
             //result02 += int.Parse(strNumber[0].ToString());
 
         }
 
-        
+
         static void Main()
         {
 
