@@ -78,7 +78,7 @@ namespace day01
             //bool b1 = result == 0.1m;
             //Console.WriteLine(b1);//ture
 
-            //sad
+            //sadaa
 
             
         }
